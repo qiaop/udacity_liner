@@ -389,6 +389,7 @@ printInMatrixFormat(Ab,padding=3,truncating=0)
 
 
 # TODO 实现 Gaussain Jordan 方法求解 Ax = b
+# 这部分有点模糊，借鉴了往期学员的讲解
 
 """ Gaussian Jordan 方法求解 Ax = b.
     参数
